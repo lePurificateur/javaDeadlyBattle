@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/AlexandreGoldstein.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/BlanchetNicolas.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/ControleJavaAnuseyan14-02-2014.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/DOAN.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/Downloads.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/DSanchezAnthony_source.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/DSJar.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/DSJavaDeadlyBattle.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/EmmanuelBischoffExam2.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/Exem.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/JavaDeadlyBattle.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/JavaDeadlyBattleControle.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/JavaDeadlyBattlePatrickWampe.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/kadricArminExam.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/ludo.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/mathieubenhalima.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/theopozzi.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/tom140214.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/tomgermain1602.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/yannis.jar"/>
+	<classpathentry kind="lib" path="/home/klaus/Documents/developpement/git/javaDeadlyBattle/JavaDeadlyBattle/etudiants/ZITOLOU.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
