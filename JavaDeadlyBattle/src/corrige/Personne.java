@@ -138,15 +138,6 @@ public abstract class Personne implements specifications.Personne
 				iterator.remove();
 		}
 		return new ArrayList<specifications.Personne>(freres);
-		/*
-		 Set<specifications.Personne> freres = new HashSet<specifications.Personne>();
-		 if (getPere() != null)
-			 freres.addAll(getPere().getEnfants());
-		 if (getMere() != null)
-			 freres.addAll(getMere().getEnfants());
-		 freres.remove(this);
-		 return new ArrayList<specifications.Personne>(freres);
-		 */
 	}
 	
 	@Override
